@@ -1,0 +1,8 @@
+{
+  "name": "Remix Imperium Flights - IGI Airport Operations",
+  "description": "Interactive live airport operations and aircraft intelligence visualization for Indira Gandhi International Airport (DEL), New Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
